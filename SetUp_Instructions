@@ -1,0 +1,11 @@
+To reproduce our work one can create a Google Cloud Platform (GCP) account and request $300 of learning credits. 
+Once this is approved, in order to do the synthetic data generation and machine learning, the jupyter notebook 
+'generate_synthea_dataset_CSV.ipynb' should be uploaded to Google Colab, using the same email/account used to 
+create the GCP account. The notebook is self explanatory and the video can be referenced for a brief summary. 
+Next, upload the 'synthea_bqml_automl.ipynb' to Google Colab and again, follow  the instructions while 
+referring to the video for a brief explanation. 
+
+To de-identify any FHIR patient data, follow Ryan's video demo and cross reference 'De-Identifying FHIR Data in GCP.ipynb'
+for more detailed code.
+
+If you have any questions, reach out to catta008@umn.edu. 
